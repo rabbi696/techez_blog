@@ -2,7 +2,7 @@ import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
   website: "https://blog.techez.live",
-  author: "TechEz",
+  author: "Golam Rabbi",
   desc: "Discover TechEz: Your Fun and Informative Source for IT Goodness.",
   title: "TechEz - Cloud Doctor",
   ogImage: "astropaper-og.jpg",
