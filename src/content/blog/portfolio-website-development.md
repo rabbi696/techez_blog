@@ -13,13 +13,6 @@ tags:
 description:
   "EXAMPLE POST: My experience about developing my first portfolio website and a blog
   using NextJS and a headless CMS."
----
-
-> This article is originally from my [blog post]. I put this article to demonstrate how you can write blog posts/articles using AstroPaper theme.
-
-My experience about developing my first portfolio website and a blog using NextJS and a headless CMS.
-
-![Building portfolio]
 
 
 ## Tech Stack
