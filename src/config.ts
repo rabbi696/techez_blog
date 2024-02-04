@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://blog.techez.live",
   author: "Golam Rabbi",
   desc: "Discover TechEz: Your Fun and Informative Source for IT Goodness.",
-  title: "TechEz - Cloud Doctor",
+  title: "TechEz - Blogs - Guides - Self Hosting",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
